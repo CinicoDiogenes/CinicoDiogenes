@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CinicoDiogenes
-- 👀 I’m interested in FrontEnd programmer 
+- 👀 I’m interested in FrontEnd code 
 - 🌱 I’m currently learning FrontEnd Skills + frameWorks 
 - 💞️ I’m looking to collaborate on Web Developer
 - 📫 How to reach me andrecostta.it@gmail.com
