@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CinicoDiogenes
+- 👋 Hi, I’m André Costa - @CinicoDiogenes
 - 👀 I’m interested in FrontEnd code 
 - 🌱 I’m currently learning FrontEnd Skills + frameWorks 
 - 💞️ I’m looking to collaborate on Web Developer
