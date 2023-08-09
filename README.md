@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end code and everything in the technology environment.
 - 🌱 I’m currently learning front-end Skills + frameWorks 
 - 💞️ I’m looking to collaborate on Web Developer
-- 📫 How to reach me andrecostta.it@gmail.com
+- 📫 How to reach me andrecostta.it@gmail.com / +34684129003
 
 <!---
 CinicoDiogenes/CinicoDiogenes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
